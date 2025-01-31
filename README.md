@@ -1,4 +1,4 @@
-```
+
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -14,8 +14,7 @@
 
 ## Feito por:
 
-### Joana Santos
+### Leonardo Heck
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
 
-```
